@@ -114,6 +114,7 @@
 4. Скрипт, cron-task и скриншот с несколькими резервными копиями в "/opt/backup"
 
 [Script](https://github.com/expgt/net-fops-hw-14-4/blob/main/deploy.sh)
+
 ![5_1](https://github.com/expgt/net-fops-hw-14-4/blob/main/14_4_5_4_1.png)
 ![5_2](https://github.com/expgt/net-fops-hw-14-4/blob/main/14_4_5_4_2.png)
 
