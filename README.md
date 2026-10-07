@@ -126,7 +126,7 @@
 Скриншоты  действий.
 
 ![6_1](https://github.com/expgt/net-fops-hw-14-4/blob/main/14_4_6_1.png)
-![6_1](https://github.com/expgt/net-fops-hw-14-4/blob/main/14_4_6_1.png)
+![6_2](https://github.com/expgt/net-fops-hw-14-4/blob/main/14_4_6_2.png)
 
 ---
 
