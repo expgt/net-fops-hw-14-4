@@ -103,6 +103,7 @@
 6. Повторно выполнен SQL-запрос на ВМ.
 
 ![4_6](https://github.com/expgt/net-fops-hw-14-4/blob/main/14_4_4_6.png)
+
 [fork](https://github.com/expgt/net-fops-hw-14-4.git)
 
 ---
